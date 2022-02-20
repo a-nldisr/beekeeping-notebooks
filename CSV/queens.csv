@@ -1,0 +1,23 @@
+nr,weight,color,date hatched,box,Drone excluder color,mated,selection,deceased,reason deceased
+1,0.192,white /red,18 Jun,,yellow,no,queen cell,yes,wrong excluder
+2,0.244,white /red,18 Jun,box 4,blue,yes,queen cell,yes,robbed out
+3,0.256,white /red,18 Jun,box 01,blue,yes,queen cell,yes ,robbed out
+4,0.252,white /red,19 Jun,box 02,red,no,queen cell,yes,wrong excluder
+5,0.205,white,19 Jun,EWK,EWK,yes,queen cell,yes,during introduction
+6,0.2,none,19 Jun,EWK,EWK,yes,queen cell,yes,robbed out
+7,0.178,white dot,1 Aug,EWK,EWK,no,wild,yes,not mated
+8,0.2,white dot,1 Aug,EWK,EWK,no,queen cell,yes,not mated
+9,0.167,white dot,1 Aug,EWK,EWK,no,wild,yes,not mated
+10,0.2,white dot,1 Aug,EWK,EWK,no,queen cell,yes,not mated
+11,0.188,white dot,1 Aug,EWK,EWK,no,wild,yes,not mated
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+12,0,none,19 Jun,deceased,deceased,no,queen cell,yes,black larvae
+13,0,none,18 Jun,deceased,deceased,no,queen cell,yes,no feeding
+14,0,none,18 Jun,deceased,deceased,no,queen cell,yes,no feeding
+15,0,none,18 Jun,deceased,deceased,no,queen cell,yes,no feeding
+16,0,none,18 Jun,deceased,deceased,no,queen cell,yes,no feeding
